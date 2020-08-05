@@ -1,4 +1,4 @@
-# Gradesverify front-end web app version 1
+# Gradesverify front-end web
 
 #Front-End #HTML  
 Web application to verify the authenticity of diplomas and transcripts. (University of Yaounde 1)
@@ -69,4 +69,4 @@ In the next tutorial we are going to see how to make a JSP with the facilities g
   
   students : Abdel Mfossa, Luc Panta, Romeo Koati, Meryl Dietagoum
   
-Demo on https://abdelmfossa.github.io/gradesverify-web-v1/
+Demo on https://abdelmfossa.github.io/gradesverify-web/
