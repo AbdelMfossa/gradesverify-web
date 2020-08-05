@@ -1,4 +1,4 @@
-# Gradesverify front-end web
+# Gradesverify web
 
 #Front-End  - Back-End #Java  
 Web application to verify the authenticity of diplomas and transcripts. (University of Yaounde 1)
