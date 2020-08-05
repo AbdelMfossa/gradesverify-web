@@ -1,10 +1,16 @@
 # Gradesverify front-end web
 
-#Front-End #HTML  
+#Front-End  - Back-End #Java  
 Web application to verify the authenticity of diplomas and transcripts. (University of Yaounde 1)
 
-
-  supervised by : Pr. Rene NDOUNDAM
+students : 
+  Romeo Koati,
+  Abdel Mfossa, 
+  Luc Panta,  
+  Meryl Dietagoum
+  
+supervised by : 
+  Pr. Rene NDOUNDAM
   
   1-Manuel deployment
   -------------------
@@ -65,8 +71,5 @@ in the url, by default, we write the name of the WAR without the extension: firs
 In the next tutorial we are going to see how to make a JSP with the facilities given by Eclipse JEE.
 
 
-
-  
-  students : Abdel Mfossa, Luc Panta, Romeo Koati, Meryl Dietagoum
   
 Demo on https://abdelmfossa.github.io/gradesverify-web/
